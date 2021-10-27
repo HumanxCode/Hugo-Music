@@ -66,8 +66,8 @@ Get pyrogram (p)  `SESSION` from here:
 
 ## Commands 🛠
 
-• `/play <song name>` - play song you requested
-• `/dplay <song name>` - play song you requested via deezer
+- `/play <song name>` - play song you requested
+- `/dplay <song name>` - play song you requested via deezer
 • `/splay <song name>` - play song you requested via jio saavn
 • `/playlist` - Show now playing list
 • `/current` - Show now playing
